@@ -1,12 +1,6 @@
 symfony2-project-vagrant
 ========================
 
-
-* Website: [http://www.vagrantup.com](http://www.vagrantup.com)
-* Source: [https://github.com/mitchellh/vagrant](https://github.com/mitchellh/vagrant)
-* IRC: `#vagrant` on Freenode
-* Mailing list: [Google Groups](http://groups.google.com/group/vagrant-up)
-
 Symfony 2 Vagrant is a tool for building and distributing development environments.
 
 Vagrant provides the framework and configuration format to create and
