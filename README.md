@@ -1,8 +1,6 @@
 symfony2-project-vagrant
 ========================
 
-bin : folder with wrapper scripts for easier managemnt and usage of the VM.
-puphpet : provisioning for the vagrant box. This folder contains also the yaml file to configure the Vagrant box and its provisioning.
 
 * Website: [http://www.vagrantup.com](http://www.vagrantup.com)
 * Source: [https://github.com/mitchellh/vagrant](https://github.com/mitchellh/vagrant)
