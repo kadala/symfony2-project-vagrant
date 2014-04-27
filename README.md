@@ -12,7 +12,7 @@ Vagrant Install
 ---------------
 
 ```
-vagrant init hashicorp/precise32
+vagrant init hashicorp/precise64
 ```
 
 ```
