@@ -19,9 +19,17 @@ between Windows, Mac OS X, and Linux.
 Vagrant Install
 ---------------
 
+```
 vagrant init hashicorp/precise32
+```
+
+```
 vagrant up
+```
+
+```
 vagrant ssh
+```
 
 VM content
 ----------
